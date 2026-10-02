@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notes Toolkit</title>
-    <script src="script.js" defer></script>
-</head>
-<body>
-    <p>Open the Console to see the results.</p>
-</body>
-</html>let notes = [
+let notes = [
     { id: 1, text: "Buy milk and bread", category: "personal" },
     { id: 2, text: "Finish the Day 3 assignment", category: "study" },
     { id: 3, text: "Email the project report to Grace", category: "work" },
